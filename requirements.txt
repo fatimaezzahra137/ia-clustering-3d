@@ -3,4 +3,4 @@ pandas
 joblib
 plotly
 scikit-learn
-openpyxls
+openpyxl

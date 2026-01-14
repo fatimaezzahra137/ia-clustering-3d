@@ -1,4 +1,5 @@
-# --- Dossier Environnement Virtuel (CORRECTION ICI) ---
+# --- Dossier Environnement Virtuel ---
+# On bloque bien les 11 000 fichiers ici
 .venv/
 venv/
 env/
@@ -12,7 +13,7 @@ __pycache__/
 # --- Fichiers de données et exports ---
 *.xlsx
 *.csv
-*.pkl
+# IMPORTANT : J'ai supprimé *.pkl ici pour que votre modèle IA soit envoyé sur GitHub
 
 # --- IDE et Système ---
 .vscode/
