@@ -1,0 +1,20 @@
+# --- Dossier Environnement Virtuel (CORRECTION ICI) ---
+.venv/
+venv/
+env/
+.env
+
+# --- Fichiers temporaires Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Fichiers de données et exports ---
+*.xlsx
+*.csv
+*.pkl
+
+# --- IDE et Système ---
+.vscode/
+.DS_Store
+Thumbs.db
